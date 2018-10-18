@@ -33,7 +33,7 @@ When you run `ruby lib/welcome.rb` from your terminal you are asking the Ruby in
 
 The solution to this is to make sure you have `puts "Welcome to Tic Tac Toe!"` in `lib/welcome.rb`. A working program should look like:
 
-![Working program](http://learn-co-videos.s3.amazonaws.com/ruby/working.tic.tac.toe.rb.gif)
+![Working program])
 
 **Hint: Make sure you've saved `lib/welcome.rb`.**
 
